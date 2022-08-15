@@ -1,0 +1,3493 @@
+{
+    "0": {
+        "success": true,
+        "messages": [],
+        "body": {
+            "products": [
+                {
+                    "productId": "30059511",
+                    "name": "Монитор игровой HUAWEI MateView GT 34'' ZQE-CBA",
+                    "nameTranslit": "monitor-igrovoi-huawei-mateview-gt-34-zqe-cba",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30059511",
+                    "materialSource": "ERP",
+                    "modelName": "MateView GT 34'' ZQE-CBA",
+                    "rating": {
+                        "star": 4.777777777777778,
+                        "count": 18,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30059511b.jpg",
+                    "brandId": "1801",
+                    "brandName": "HUAWEI",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3587",
+                        "name": "Игровые мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30059511.jpg",
+                        "Pdb/30059511b.jpg",
+                        "Pdb/30059511b1.jpg",
+                        "Pdb/30059511b2.jpg",
+                        "Pdb/30059511b3.jpg",
+                        "Pdb/30059511b4.jpg",
+                        "Pdb/30059511b5.jpg",
+                        "Pdb/30059511b6.jpg",
+                        "Pdb/30059511b7.jpg",
+                        "Pdb/30059511b8.jpg",
+                        "Pdb/30059511b9.jpg",
+                        "Pdb/30059511s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 108,
+                            "name": "Диагональ экрана",
+                            "value": "34\"(86.3 см)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "34\"/3440x1440 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "350",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "165",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 39999,
+                    "item_salePrice": 35999,
+                    "item_bonus": 1080,
+                    "item_link": "https://www.mvideo.ru/products/monitor-igrovoi-huawei-mateview-gt-34-zqe-cba-30059511"
+                },
+                {
+                    "productId": "30059510",
+                    "name": "Монитор HUAWEI Display 23.8'' 75Hz AD80HW",
+                    "nameTranslit": "monitor-huawei-display-238-75hz-ad80hw",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30059510",
+                    "materialSource": "ERP",
+                    "modelName": "Display 23.8'' 75Hz AD80HW",
+                    "rating": {
+                        "star": 4.9,
+                        "count": 10,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30059510b.jpg",
+                    "brandId": "1801",
+                    "brandName": "HUAWEI",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30059510.jpg",
+                        "Pdb/30059510b.jpg",
+                        "Pdb/30059510b1.jpg",
+                        "Pdb/30059510b2.jpg",
+                        "Pdb/30059510b21.jpg",
+                        "Pdb/30059510b22.jpg",
+                        "Pdb/30059510b23.jpg",
+                        "Pdb/30059510b24.jpg",
+                        "Pdb/30059510b26.jpg",
+                        "Pdb/30059510s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "23.8\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "1 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 12999,
+                    "item_salePrice": 11999,
+                    "item_bonus": 360,
+                    "item_link": "https://www.mvideo.ru/products/monitor-huawei-display-238-75hz-ad80hw-30059510"
+                },
+                {
+                    "productId": "30054328",
+                    "name": "Монитор Acer R270Usmipx",
+                    "nameTranslit": "monitor-acer-r270usmipx",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30054328",
+                    "materialSource": "ERP",
+                    "modelName": "R270Usmipx",
+                    "rating": {
+                        "star": 4.511627906976744,
+                        "count": 43,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30054328b.jpg",
+                    "brandId": "93",
+                    "brandName": "Acer",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30054328.jpg",
+                        "Pdb/30054328b.jpg",
+                        "Pdb/30054328b1.jpg",
+                        "Pdb/30054328b2.jpg",
+                        "Pdb/30054328b21.jpg",
+                        "Pdb/30054328b22.jpg",
+                        "Pdb/30054328b23.jpg",
+                        "Pdb/30054328b24.jpg",
+                        "Pdb/30054328b26.jpg",
+                        "Pdb/30054328s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/2560x1440 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "350",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "100 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 31999,
+                    "item_salePrice": 19599,
+                    "item_bonus": 588,
+                    "item_link": "https://www.mvideo.ru/products/monitor-acer-r270usmipx-30054328"
+                },
+                {
+                    "productId": "30057503",
+                    "name": "Монитор игровой HUAWEI MateView GT 34\" (ZQE-CAA)",
+                    "nameTranslit": "monitor-igrovoi-huawei-mateview-gt-34-zqe-caa",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30057503",
+                    "materialSource": "ERP",
+                    "modelName": "MateView GT 34\" (ZQE-CAA)",
+                    "rating": {
+                        "star": 4.871794871794871,
+                        "count": 39,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30057503b.jpg",
+                    "brandId": "1801",
+                    "brandName": "HUAWEI",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3587",
+                        "name": "Игровые мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30057503.jpg",
+                        "Pdb/30057503b.jpg",
+                        "Pdb/30057503b1.jpg",
+                        "Pdb/30057503b2.jpg",
+                        "Pdb/30057503b21.jpg",
+                        "Pdb/30057503b22.jpg",
+                        "Pdb/30057503b23.jpg",
+                        "Pdb/30057503b24.jpg",
+                        "Pdb/30057503b26.jpg",
+                        "Pdb/30057503b3.jpg",
+                        "Pdb/30057503b4.jpg",
+                        "Pdb/30057503b5.jpg",
+                        "Pdb/30057503b6.jpg",
+                        "Pdb/30057503s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 108,
+                            "name": "Диагональ экрана",
+                            "value": "34\"(86.3 см)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "34\"/3440x1440 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "350",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "165",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 45999,
+                    "item_salePrice": 41999,
+                    "item_bonus": 1260,
+                    "item_link": "https://www.mvideo.ru/products/monitor-igrovoi-huawei-mateview-gt-34-zqe-caa-30057503"
+                },
+                {
+                    "productId": "30054540",
+                    "name": "Монитор HP 27fh (4HZ38AA)",
+                    "nameTranslit": "monitor-hp-27fh-4hz38aa",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30054540",
+                    "materialSource": "ERP",
+                    "modelName": "27fh (4HZ38AA)",
+                    "rating": {
+                        "star": 4.8,
+                        "count": 5,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30054540b.jpg",
+                    "brandId": "534",
+                    "brandName": "HP",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30054540.jpg",
+                        "Pdb/30054540b.jpg",
+                        "Pdb/30054540b1.jpg",
+                        "Pdb/30054540b2.jpg",
+                        "Pdb/30054540b3.jpg",
+                        "Pdb/30054540b4.jpg",
+                        "Pdb/30054540b5.jpg",
+                        "Pdb/30054540s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "300",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "10 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 18999,
+                    "item_salePrice": 15799,
+                    "item_bonus": 474,
+                    "item_link": "https://www.mvideo.ru/products/monitor-hp-27fh-4hz38aa-30054540"
+                },
+                {
+                    "productId": "30054149",
+                    "name": "Монитор HP 24fh (4HZ37AA)",
+                    "nameTranslit": "monitor-hp-24fh-4hz37aa",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30054149",
+                    "materialSource": "ERP",
+                    "modelName": "24fh (4HZ37AA)",
+                    "rating": {
+                        "star": 5,
+                        "count": 14,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30054149b.jpg",
+                    "brandId": "534",
+                    "brandName": "HP",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30054149.jpg",
+                        "Pdb/30054149b.jpg",
+                        "Pdb/30054149b1.jpg",
+                        "Pdb/30054149b2.jpg",
+                        "Pdb/30054149b21.jpg",
+                        "Pdb/30054149b22.jpg",
+                        "Pdb/30054149b23.jpg",
+                        "Pdb/30054149b24.jpg",
+                        "Pdb/30054149b25.jpg",
+                        "Pdb/30054149b26.jpg",
+                        "Pdb/30054149b3.jpg",
+                        "Pdb/30054149b4.jpg",
+                        "Pdb/30054149s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "23.8\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "300",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "60",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        },
+                        {
+                            "id": 30853469,
+                            "name": "Максимальный угол обзора по вертикали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 21999,
+                    "item_salePrice": 12999,
+                    "item_bonus": 390,
+                    "item_link": "https://www.mvideo.ru/products/monitor-hp-24fh-4hz37aa-30054149"
+                },
+                {
+                    "productId": "30060664",
+                    "name": "Монитор Rombica SkyView M23 (MUT-001)",
+                    "nameTranslit": "monitor-rombica-skyview-m23-mut-001",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30060664",
+                    "materialSource": "ERP",
+                    "modelName": "SkyView M23 (MUT-001)",
+                    "rating": {
+                        "star": 4.583333333333333,
+                        "count": 12,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30060664b.jpg",
+                    "brandId": "2029",
+                    "brandName": "Rombica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30060664.jpg",
+                        "Pdb/30060664b.jpg",
+                        "Pdb/30060664b1.jpg",
+                        "Pdb/30060664b2.jpg",
+                        "Pdb/30060664b20.jpg",
+                        "Pdb/30060664b21.jpg",
+                        "Pdb/30060664b22.jpg",
+                        "Pdb/30060664b23.jpg",
+                        "Pdb/30060664b24.jpg",
+                        "Pdb/30060664b26.jpg",
+                        "Pdb/30060664b27.jpg",
+                        "Pdb/30060664b28.jpg",
+                        "Pdb/30060664b29.jpg",
+                        "Pdb/30060664b3.jpg",
+                        "Pdb/30060664b30.jpg",
+                        "Pdb/30060664b4.jpg",
+                        "Pdb/30060664b5.jpg",
+                        "Pdb/30060664s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "23\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "60",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2057,
+                            "name": "Время отклика пикселя",
+                            "value": "14 мсек",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 160,
+                            "name": "Интерфейс связи с ПК",
+                            "value": "D-Sub; HDMI",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 11,
+                            "measure": null
+                        }
+                    ],
+                    "item_basePrice": 10799,
+                    "item_salePrice": 7499,
+                    "item_bonus": 225,
+                    "item_link": "https://www.mvideo.ru/products/monitor-rombica-skyview-m23-mut-001-30060664"
+                },
+                {
+                    "productId": "30050968",
+                    "name": "Монитор игровой AOPEN 27HC5RPbiipx",
+                    "nameTranslit": "monitor-igrovoi-aopen-27hc5rpbiipx",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30050968",
+                    "materialSource": "ERP",
+                    "modelName": "27HC5RPbiipx",
+                    "rating": {
+                        "star": 4.618181818181818,
+                        "count": 55,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30050968b.jpg",
+                    "brandId": "4274",
+                    "brandName": "AOPEN",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3587",
+                        "name": "Игровые мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30050968.jpg",
+                        "Pdb/30050968b.jpg",
+                        "Pdb/30050968b1.jpg",
+                        "Pdb/30050968b2.jpg",
+                        "Pdb/30050968b3.jpg",
+                        "Pdb/30050968b4.jpg",
+                        "Pdb/30050968b5.jpg",
+                        "Pdb/30050968b6.jpg",
+                        "Pdb/30050968s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 108,
+                            "name": "Диагональ экрана",
+                            "value": "27\"(68.5 см)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "165",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "100 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 7,
+                            "measure": null
+                        }
+                    ],
+                    "item_basePrice": 26999,
+                    "item_salePrice": 18599,
+                    "item_bonus": 558,
+                    "item_link": "https://www.mvideo.ru/products/monitor-igrovoi-aopen-27hc5rpbiipx-30050968"
+                },
+                {
+                    "productId": "30039349",
+                    "name": "Монитор Acer RG270bmiix",
+                    "nameTranslit": "monitor-acer-rg270bmiix",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30039349",
+                    "materialSource": "ERP",
+                    "modelName": "RG270bmiix",
+                    "rating": {
+                        "star": 4.869565217391305,
+                        "count": 184,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30039349b.jpg",
+                    "brandId": "93",
+                    "brandName": "Acer",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30039349.jpg",
+                        "Pdb/30039349b.jpg",
+                        "Pdb/30039349b1.jpg",
+                        "Pdb/30039349b2.jpg",
+                        "Pdb/30039349b21.jpg",
+                        "Pdb/30039349b22.jpg",
+                        "Pdb/30039349b23.jpg",
+                        "Pdb/30039349b24.jpg",
+                        "Pdb/30039349b25.jpg",
+                        "Pdb/30039349b26.jpg",
+                        "Pdb/30039349b3.jpg",
+                        "Pdb/30039349s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "100 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 27999,
+                    "item_salePrice": 16699,
+                    "item_bonus": 501,
+                    "item_link": "https://www.mvideo.ru/products/monitor-acer-rg270bmiix-30039349"
+                },
+                {
+                    "productId": "30060665",
+                    "name": "Монитор Rombica SkyView M23-MF (MUT-002)",
+                    "nameTranslit": "monitor-rombica-skyview-m23-mf-mut-002",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30060665",
+                    "materialSource": "ERP",
+                    "modelName": "SkyView M23-MF (MUT-002)",
+                    "rating": {
+                        "star": 4.625,
+                        "count": 16,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30060665b.jpg",
+                    "brandId": "2029",
+                    "brandName": "Rombica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30060665.jpg",
+                        "Pdb/30060665b.jpg",
+                        "Pdb/30060665b1.jpg",
+                        "Pdb/30060665b2.jpg",
+                        "Pdb/30060665b21.jpg",
+                        "Pdb/30060665b22.jpg",
+                        "Pdb/30060665b23.jpg",
+                        "Pdb/30060665b24.jpg",
+                        "Pdb/30060665b25.jpg",
+                        "Pdb/30060665b26.jpg",
+                        "Pdb/30060665b27.jpg",
+                        "Pdb/30060665b28.jpg",
+                        "Pdb/30060665b29.jpg",
+                        "Pdb/30060665b3.jpg",
+                        "Pdb/30060665b30.jpg",
+                        "Pdb/30060665s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "23\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "60",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2057,
+                            "name": "Время отклика пикселя",
+                            "value": "14 мсек",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 160,
+                            "name": "Интерфейс связи с ПК",
+                            "value": "D-Sub; HDMI",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 11,
+                            "measure": null
+                        }
+                    ],
+                    "item_basePrice": 11799,
+                    "item_salePrice": 7899,
+                    "item_bonus": 237,
+                    "item_link": "https://www.mvideo.ru/products/monitor-rombica-skyview-m23-mf-mut-002-30060665"
+                },
+                {
+                    "productId": "30045324",
+                    "name": "Монитор Acer R241YBwmix",
+                    "nameTranslit": "monitor-acer-r241ybwmix",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30045324",
+                    "materialSource": "ERP",
+                    "modelName": "R241YBwmix",
+                    "rating": {
+                        "star": 4.92,
+                        "count": 50,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30045324b.jpg",
+                    "brandId": "93",
+                    "brandName": "Acer",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30045324.jpg",
+                        "Pdb/30045324b.jpg",
+                        "Pdb/30045324b1.jpg",
+                        "Pdb/30045324b2.jpg",
+                        "Pdb/30045324b21.jpg",
+                        "Pdb/30045324b22.jpg",
+                        "Pdb/30045324b23.jpg",
+                        "Pdb/30045324b24.jpg",
+                        "Pdb/30045324b26.jpg",
+                        "Pdb/30045324b3.jpg",
+                        "Pdb/30045324s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "23.8\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "100 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 19999,
+                    "item_salePrice": 16799,
+                    "item_bonus": 504,
+                    "item_link": "https://www.mvideo.ru/products/monitor-acer-r241ybwmix-30045324"
+                },
+                {
+                    "productId": "30058317",
+                    "name": "Монитор HP M27fd USB-C (2H3Y8AA)",
+                    "nameTranslit": "monitor-hp-m27fd-usb-c-2h3y8aa",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30058317",
+                    "materialSource": "ERP",
+                    "modelName": "M27fd USB-C (2H3Y8AA)",
+                    "rating": {
+                        "star": 4.916666666666667,
+                        "count": 12,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30058317b.jpg",
+                    "brandId": "534",
+                    "brandName": "HP",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30058317.jpg",
+                        "Pdb/30058317b.jpg",
+                        "Pdb/30058317b1.jpg",
+                        "Pdb/30058317b2.jpg",
+                        "Pdb/30058317b21.jpg",
+                        "Pdb/30058317b22.jpg",
+                        "Pdb/30058317b23.jpg",
+                        "Pdb/30058317b24.jpg",
+                        "Pdb/30058317b25.jpg",
+                        "Pdb/30058317b3.jpg",
+                        "Pdb/30058317b4.jpg",
+                        "Pdb/30058317b5.jpg",
+                        "Pdb/30058317s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "300",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        },
+                        {
+                            "id": 30853469,
+                            "name": "Максимальный угол обзора по вертикали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 30299,
+                    "item_salePrice": 16399,
+                    "item_bonus": 492,
+                    "item_link": "https://www.mvideo.ru/products/monitor-hp-m27fd-usb-c-2h3y8aa-30058317"
+                },
+                {
+                    "productId": "30051548",
+                    "name": "Монитор AOC 27B2H",
+                    "nameTranslit": "monitor-aoc-27b2h",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30051548",
+                    "materialSource": "ERP",
+                    "modelName": "27B2H",
+                    "rating": {
+                        "star": 4.7272727272727275,
+                        "count": 11,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30051548b.jpg",
+                    "brandId": "1067",
+                    "brandName": "AOC",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30051548.jpg",
+                        "Pdb/30051548b.jpg",
+                        "Pdb/30051548b21.jpg",
+                        "Pdb/30051548b22.jpg",
+                        "Pdb/30051548b23.jpg",
+                        "Pdb/30051548b24.jpg",
+                        "Pdb/30051548b25.jpg",
+                        "Pdb/30051548b26.jpg",
+                        "Pdb/30051548s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "20 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 26399,
+                    "item_salePrice": 12999,
+                    "item_bonus": 390,
+                    "item_link": "https://www.mvideo.ru/products/monitor-aoc-27b2h-30051548"
+                },
+                {
+                    "productId": "30060078",
+                    "name": "Монитор ViewSonic VX2718-2KPC-MHD",
+                    "nameTranslit": "monitor-viewsonic-vx2718-2kpc-mhd",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30060078",
+                    "materialSource": "ERP",
+                    "modelName": "VX2718-2KPC-MHD",
+                    "rating": {
+                        "star": 4.714285714285714,
+                        "count": 7,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30060078b.jpg",
+                    "brandId": "173",
+                    "brandName": "ViewSonic",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30060078.jpg",
+                        "Pdb/30060078b.jpg",
+                        "Pdb/30060078b1.jpg",
+                        "Pdb/30060078b2.jpg",
+                        "Pdb/30060078b20.jpg",
+                        "Pdb/30060078b21.jpg",
+                        "Pdb/30060078b22.jpg",
+                        "Pdb/30060078b23.jpg",
+                        "Pdb/30060078b24.jpg",
+                        "Pdb/30060078b26.jpg",
+                        "Pdb/30060078s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "165",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "80 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        },
+                        {
+                            "id": 30853469,
+                            "name": "Максимальный угол обзора по вертикали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 39999,
+                    "item_salePrice": 21699,
+                    "item_bonus": 651,
+                    "item_link": "https://www.mvideo.ru/products/monitor-viewsonic-vx2718-2kpc-mhd-30060078"
+                },
+                {
+                    "productId": "30059579",
+                    "name": "Монитор HP M27fwa (356D5AA)",
+                    "nameTranslit": "monitor-hp-m27fwa-356d5aa",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30059579",
+                    "materialSource": "ERP",
+                    "modelName": "M27fwa (356D5AA)",
+                    "rating": {
+                        "star": 4.9,
+                        "count": 10,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30059579b.jpg",
+                    "brandId": "534",
+                    "brandName": "HP",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30059579.jpg",
+                        "Pdb/30059579b.jpg",
+                        "Pdb/30059579b1.jpg",
+                        "Pdb/30059579b2.jpg",
+                        "Pdb/30059579b3.jpg",
+                        "Pdb/30059579b4.jpg",
+                        "Pdb/30059579b5.jpg",
+                        "Pdb/30059579b6.jpg",
+                        "Pdb/30059579b7.jpg",
+                        "Pdb/30059579s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "300",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2057,
+                            "name": "Время отклика пикселя",
+                            "value": "5 мсек",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        },
+                        {
+                            "id": 2300,
+                            "name": "Встроенная акустическая система",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 17,
+                            "measure": null
+                        }
+                    ],
+                    "item_basePrice": 27899,
+                    "item_salePrice": 17199,
+                    "item_bonus": 516,
+                    "item_link": "https://www.mvideo.ru/products/monitor-hp-m27fwa-356d5aa-30059579"
+                },
+                {
+                    "productId": "30062295",
+                    "name": "Монитор игровой Digma Gaming DM-MONG2410",
+                    "nameTranslit": "monitor-igrovoi-digma-gaming-dm-mong2410",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30062295",
+                    "materialSource": "ERP",
+                    "modelName": "Gaming DM-MONG2410",
+                    "rating": {
+                        "star": 4.851063829787234,
+                        "count": 47,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30062295b.jpg",
+                    "brandId": "1013",
+                    "brandName": "Digma",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3587",
+                        "name": "Игровые мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30062295.jpg",
+                        "Pdb/30062295b.jpg",
+                        "Pdb/30062295b1.jpg",
+                        "Pdb/30062295b2.jpg",
+                        "Pdb/30062295b3.jpg",
+                        "Pdb/30062295b4.jpg",
+                        "Pdb/30062295b5.jpg",
+                        "Pdb/30062295b6.jpg",
+                        "Pdb/30062295s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 108,
+                            "name": "Диагональ экрана",
+                            "value": "23.6\"(59 см)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "23.8\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "165",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 18999,
+                    "item_salePrice": 16999,
+                    "item_bonus": 510,
+                    "item_link": "https://www.mvideo.ru/products/monitor-igrovoi-digma-gaming-dm-mong2410-30062295"
+                },
+                {
+                    "productId": "30057915",
+                    "name": "Монитор игровой AOPEN 27HC5URPbmiipx",
+                    "nameTranslit": "monitor-igrovoi-aopen-27hc5urpbmiipx",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30057915",
+                    "materialSource": "ERP",
+                    "modelName": "27HC5URPbmiipx",
+                    "rating": {
+                        "star": 5,
+                        "count": 4,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30057915b.jpg",
+                    "brandId": "4274",
+                    "brandName": "AOPEN",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3587",
+                        "name": "Игровые мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30057915.jpg",
+                        "Pdb/30057915b.jpg",
+                        "Pdb/30057915b1.jpg",
+                        "Pdb/30057915b2.jpg",
+                        "Pdb/30057915b21.jpg",
+                        "Pdb/30057915b22.jpg",
+                        "Pdb/30057915b23.jpg",
+                        "Pdb/30057915b24.jpg",
+                        "Pdb/30057915b26.jpg",
+                        "Pdb/30057915b3.jpg",
+                        "Pdb/30057915b4.jpg",
+                        "Pdb/30057915s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 108,
+                            "name": "Диагональ экрана",
+                            "value": "27\"(68.5 см)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/2560x1440 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "165",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "100 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 7,
+                            "measure": null
+                        }
+                    ],
+                    "item_basePrice": 33799,
+                    "item_salePrice": 23299,
+                    "item_bonus": 699,
+                    "item_link": "https://www.mvideo.ru/products/monitor-igrovoi-aopen-27hc5urpbmiipx-30057915"
+                },
+                {
+                    "productId": "30043975",
+                    "name": "Монитор LG 27MK600M-B",
+                    "nameTranslit": "monitor-lg-27mk600m-b",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30043975",
+                    "materialSource": "ERP",
+                    "modelName": "27MK600M-B",
+                    "rating": {
+                        "star": 4.476190476190476,
+                        "count": 21,
+                        "percent": 81
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30043975b.jpg",
+                    "brandId": "80",
+                    "brandName": "LG",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30043975.jpg",
+                        "Pdb/30043975b.jpg",
+                        "Pdb/30043975b1.jpg",
+                        "Pdb/30043975b2.jpg",
+                        "Pdb/30043975b21.jpg",
+                        "Pdb/30043975b22.jpg",
+                        "Pdb/30043975b23.jpg",
+                        "Pdb/30043975b24.jpg",
+                        "Pdb/30043975b25.jpg",
+                        "Pdb/30043975s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "MEGA",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Режим динамической контрастности, специально предназначенный для лучшего отображения быстро меняющихся сцен. Существенно повышает качество картинки во время игр или просмотра фильмов.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 27999,
+                    "item_salePrice": 16299,
+                    "item_bonus": 489,
+                    "item_link": "https://www.mvideo.ru/products/monitor-lg-27mk600m-b-30043975"
+                },
+                {
+                    "productId": "30057914",
+                    "name": "Монитор игровой AOPEN 24MV1YPbmiipx",
+                    "nameTranslit": "monitor-igrovoi-aopen-24mv1ypbmiipx",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30057914",
+                    "materialSource": "ERP",
+                    "modelName": "24MV1YPbmiipx",
+                    "rating": {
+                        "star": 3.8333333333333335,
+                        "count": 6,
+                        "percent": 71
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30057914b.jpg",
+                    "brandId": "4274",
+                    "brandName": "AOPEN",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3587",
+                        "name": "Игровые мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30057914.jpg",
+                        "Pdb/30057914b.jpg",
+                        "Pdb/30057914b2.jpg",
+                        "Pdb/30057914b21.jpg",
+                        "Pdb/30057914b22.jpg",
+                        "Pdb/30057914b23.jpg",
+                        "Pdb/30057914b24.jpg",
+                        "Pdb/30057914b26.jpg",
+                        "Pdb/30057914b3.jpg",
+                        "Pdb/30057914s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 108,
+                            "name": "Диагональ экрана",
+                            "value": "23.8\"(60 см)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "23.8\"/1080x1920 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "165",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "100 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 7,
+                            "measure": null
+                        }
+                    ],
+                    "item_basePrice": 24999,
+                    "item_salePrice": 14399,
+                    "item_bonus": 432,
+                    "item_link": "https://www.mvideo.ru/products/monitor-igrovoi-aopen-24mv1ypbmiipx-30057914"
+                },
+                {
+                    "productId": "30044642",
+                    "name": "Монитор Samsung C27R500FHI",
+                    "nameTranslit": "monitor-samsung-c27r500fhi",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30044642",
+                    "materialSource": "ERP",
+                    "modelName": "C27R500FHI",
+                    "rating": {
+                        "star": 4.3428571428571425,
+                        "count": 35,
+                        "percent": 81
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30044642b.jpg",
+                    "brandId": "13",
+                    "brandName": "Samsung",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30044642.jpg",
+                        "Pdb/30044642b.jpg",
+                        "Pdb/30044642b1.jpg",
+                        "Pdb/30044642b2.jpg",
+                        "Pdb/30044642b21.jpg",
+                        "Pdb/30044642b22.jpg",
+                        "Pdb/30044642b23.jpg",
+                        "Pdb/30044642b24.jpg",
+                        "Pdb/30044642b26.jpg",
+                        "Pdb/30044642b27.jpg",
+                        "Pdb/30044642b3.jpg",
+                        "Pdb/30044642s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "60",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "MEGA DCR",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Режим динамической контрастности, специально предназначенный для лучшего отображения быстро меняющихся сцен. Существенно повышает качество картинки во время игр или просмотра фильмов.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 17199,
+                    "item_salePrice": 15599,
+                    "item_bonus": 468,
+                    "item_link": "https://www.mvideo.ru/products/monitor-samsung-c27r500fhi-30044642"
+                },
+                {
+                    "productId": "30059587",
+                    "name": "Монитор HP M32f (2H5M7AA)",
+                    "nameTranslit": "monitor-hp-m32f-2h5m7aa",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30059587",
+                    "materialSource": "ERP",
+                    "modelName": "M32f (2H5M7AA)",
+                    "rating": {
+                        "star": 4.4,
+                        "count": 5,
+                        "percent": 81
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30059587b.jpg",
+                    "brandId": "534",
+                    "brandName": "HP",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30059587.jpg",
+                        "Pdb/30059587b.jpg",
+                        "Pdb/30059587b1.jpg",
+                        "Pdb/30059587b2.jpg",
+                        "Pdb/30059587b23.jpg",
+                        "Pdb/30059587b24.jpg",
+                        "Pdb/30059587b25.jpg",
+                        "Pdb/30059587b3.jpg",
+                        "Pdb/30059587b4.jpg",
+                        "Pdb/30059587b5.jpg",
+                        "Pdb/30059587b6.jpg",
+                        "Pdb/30059587s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "31.5\"/1080x1920 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "300",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2057,
+                            "name": "Время отклика пикселя",
+                            "value": "7 (GTG) мсек",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": null
+                        }
+                    ],
+                    "item_basePrice": 23999,
+                    "item_salePrice": 19899,
+                    "item_bonus": 597,
+                    "item_link": "https://www.mvideo.ru/products/monitor-hp-m32f-2h5m7aa-30059587"
+                },
+                {
+                    "productId": "30059738",
+                    "name": "Монитор ViewSonic VX3276-2K-MHD-2",
+                    "nameTranslit": "monitor-viewsonic-vx3276-2k-mhd-2",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30059738",
+                    "materialSource": "ERP",
+                    "modelName": "VX3276-2K-MHD-2",
+                    "rating": {
+                        "star": 5,
+                        "count": 13,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30059738b.jpg",
+                    "brandId": "173",
+                    "brandName": "ViewSonic",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30059738.jpg",
+                        "Pdb/30059738b.jpg",
+                        "Pdb/30059738b1.jpg",
+                        "Pdb/30059738b2.jpg",
+                        "Pdb/30059738b3.jpg",
+                        "Pdb/30059738b4.jpg",
+                        "Pdb/30059738b5.jpg",
+                        "Pdb/30059738b6.jpg",
+                        "Pdb/30059738s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "31.5\"/1440x2560 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "80 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 33999,
+                    "item_salePrice": 22799,
+                    "item_bonus": 684,
+                    "item_link": "https://www.mvideo.ru/products/monitor-viewsonic-vx3276-2k-mhd-2-30059738"
+                },
+                {
+                    "productId": "30056638",
+                    "name": "Монитор AOC 24B2XHM2",
+                    "nameTranslit": "monitor-aoc-24b2xhm2",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30056638",
+                    "materialSource": "ERP",
+                    "modelName": "24B2XHM2",
+                    "rating": {
+                        "star": 5,
+                        "count": 3,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30056638b.jpg",
+                    "brandId": "1067",
+                    "brandName": "AOC",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30056638.jpg",
+                        "Pdb/30056638b.jpg",
+                        "Pdb/30056638b21.jpg",
+                        "Pdb/30056638b22.jpg",
+                        "Pdb/30056638b23.jpg",
+                        "Pdb/30056638b24.jpg",
+                        "Pdb/30056638b26.jpg",
+                        "Pdb/30056638s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "23.8\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "20 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 13799,
+                    "item_salePrice": 10699,
+                    "item_bonus": 321,
+                    "item_link": "https://www.mvideo.ru/products/monitor-aoc-24b2xhm2-30056638"
+                },
+                {
+                    "productId": "30038772",
+                    "name": "Монитор игровой MSI Optix MAG27CQ (S15-0007018-HH5)",
+                    "nameTranslit": "monitor-igrovoi-msi-optix-mag27cq-s15-0007018-hh5",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30038772",
+                    "materialSource": "ERP",
+                    "modelName": "Optix MAG27CQ (S15-0007018-HH5)",
+                    "rating": {
+                        "star": 4.764705882352941,
+                        "count": 51,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30038772b.jpg",
+                    "brandId": "1001",
+                    "brandName": "MSI",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3587",
+                        "name": "Игровые мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30038772.jpg",
+                        "Pdb/30038772b.jpg",
+                        "Pdb/30038772b1.jpg",
+                        "Pdb/30038772b2.jpg",
+                        "Pdb/30038772b21.jpg",
+                        "Pdb/30038772b22.jpg",
+                        "Pdb/30038772b23.jpg",
+                        "Pdb/30038772b24.jpg",
+                        "Pdb/30038772b25.jpg",
+                        "Pdb/30038772b26.jpg",
+                        "Pdb/30038772b3.jpg",
+                        "Pdb/30038772b4.jpg",
+                        "Pdb/30038772s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 108,
+                            "name": "Диагональ экрана",
+                            "value": "27\"(68.5 см)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/2560x1440 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "144",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "100 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 7,
+                            "measure": null
+                        }
+                    ],
+                    "item_basePrice": 41399,
+                    "item_salePrice": 25899,
+                    "item_bonus": 777,
+                    "item_link": "https://www.mvideo.ru/products/monitor-igrovoi-msi-optix-mag27cq-s15-0007018-hh5-30038772"
+                }
+            ]
+        }
+    },
+    "1": {
+        "success": true,
+        "messages": [],
+        "body": {
+            "products": [
+                {
+                    "productId": "30054992",
+                    "name": "Монитор Acer KB272HLHbi",
+                    "nameTranslit": "monitor-acer-kb272hlhbi",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30054992",
+                    "materialSource": "ERP",
+                    "modelName": "KB272HLHbi",
+                    "rating": {
+                        "star": 4.9,
+                        "count": 20,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30054992b.jpg",
+                    "brandId": "93",
+                    "brandName": "Acer",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30054992.jpg",
+                        "Pdb/30054992b.jpg",
+                        "Pdb/30054992b1.jpg",
+                        "Pdb/30054992b2.jpg",
+                        "Pdb/30054992b21.jpg",
+                        "Pdb/30054992b22.jpg",
+                        "Pdb/30054992b23.jpg",
+                        "Pdb/30054992b24.jpg",
+                        "Pdb/30054992b25.jpg",
+                        "Pdb/30054992b26.jpg",
+                        "Pdb/30054992b3.jpg",
+                        "Pdb/30054992b4.jpg",
+                        "Pdb/30054992b5.jpg",
+                        "Pdb/30054992s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "100 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 15399,
+                    "item_salePrice": 13999,
+                    "item_bonus": 420,
+                    "item_link": "https://www.mvideo.ru/products/monitor-acer-kb272hlhbi-30054992"
+                },
+                {
+                    "productId": "30060666",
+                    "name": "Монитор Rombica SkyView X238 (MUI-001)",
+                    "nameTranslit": "monitor-rombica-skyview-x238-mui-001",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30060666",
+                    "materialSource": "ERP",
+                    "modelName": "SkyView X238 (MUI-001)",
+                    "rating": {
+                        "star": 5,
+                        "count": 9,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30060666b.jpg",
+                    "brandId": "2029",
+                    "brandName": "Rombica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30060666.jpg",
+                        "Pdb/30060666b.jpg",
+                        "Pdb/30060666b1.jpg",
+                        "Pdb/30060666b2.jpg",
+                        "Pdb/30060666b21.jpg",
+                        "Pdb/30060666b22.jpg",
+                        "Pdb/30060666b23.jpg",
+                        "Pdb/30060666b24.jpg",
+                        "Pdb/30060666b25.jpg",
+                        "Pdb/30060666b26.jpg",
+                        "Pdb/30060666b3.jpg",
+                        "Pdb/30060666s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "23.8\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        },
+                        {
+                            "id": 30853469,
+                            "name": "Максимальный угол обзора по вертикали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 8,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 14999,
+                    "item_salePrice": 13199,
+                    "item_bonus": 396,
+                    "item_link": "https://www.mvideo.ru/products/monitor-rombica-skyview-x238-mui-001-30060666"
+                },
+                {
+                    "productId": "30061971",
+                    "name": "Монитор HP M27 с веб-камерой (459J9AA)",
+                    "nameTranslit": "monitor-hp-m27-s-veb-kameroi-459j9aa",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30061971",
+                    "materialSource": "ERP",
+                    "modelName": "M27 с веб-камерой (459J9AA)",
+                    "rating": {
+                        "star": 4.75,
+                        "count": 4,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30061971b.jpg",
+                    "brandId": "534",
+                    "brandName": "HP",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30061971.jpg",
+                        "Pdb/30061971b.jpg",
+                        "Pdb/30061971b1.jpg",
+                        "Pdb/30061971b2.jpg",
+                        "Pdb/30061971b3.jpg",
+                        "Pdb/30061971b4.jpg",
+                        "Pdb/30061971b5.jpg",
+                        "Pdb/30061971b6.jpg",
+                        "Pdb/30061971s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "300",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "60",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "10 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 34999,
+                    "item_salePrice": 23499,
+                    "item_bonus": 705,
+                    "item_link": "https://www.mvideo.ru/products/monitor-hp-m27-s-veb-kameroi-459j9aa-30061971"
+                },
+                {
+                    "productId": "30046721",
+                    "name": "Монитор Philips 322E1C/00",
+                    "nameTranslit": "monitor-philips-322e1c-00",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30046721",
+                    "materialSource": "ERP",
+                    "modelName": "322E1C/00",
+                    "rating": {
+                        "star": 4.846153846153846,
+                        "count": 13,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30046721b.jpg",
+                    "brandId": "11",
+                    "brandName": "Philips",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30046721.jpg",
+                        "Pdb/30046721b.jpg",
+                        "Pdb/30046721b21.jpg",
+                        "Pdb/30046721b22.jpg",
+                        "Pdb/30046721b23.jpg",
+                        "Pdb/30046721b24.jpg",
+                        "Pdb/30046721b25.jpg",
+                        "Pdb/30046721b26.jpg",
+                        "Pdb/30046721s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "32\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "MEGA",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Режим динамической контрастности, специально предназначенный для лучшего отображения быстро меняющихся сцен. Существенно повышает качество картинки во время игр или просмотра фильмов.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 23899,
+                    "item_salePrice": 18899,
+                    "item_bonus": 567,
+                    "item_link": "https://www.mvideo.ru/products/monitor-philips-322e1c-00-30046721"
+                },
+                {
+                    "productId": "30060945",
+                    "name": "Монитор Samsung F27T354FHI",
+                    "nameTranslit": "monitor-samsung-f27t354fhi",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30060945",
+                    "materialSource": "ERP",
+                    "modelName": "F27T354FHI",
+                    "rating": {
+                        "star": 4.666666666666667,
+                        "count": 3,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30060945b.jpg",
+                    "brandId": "13",
+                    "brandName": "Samsung",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30060945.jpg",
+                        "Pdb/30060945b.jpg",
+                        "Pdb/30060945b1.jpg",
+                        "Pdb/30060945b2.jpg",
+                        "Pdb/30060945b3.jpg",
+                        "Pdb/30060945b4.jpg",
+                        "Pdb/30060945b5.jpg",
+                        "Pdb/30060945b6.jpg",
+                        "Pdb/30060945b7.jpg",
+                        "Pdb/30060945b8.jpg",
+                        "Pdb/30060945b9.jpg",
+                        "Pdb/30060945s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "MEGA DCR",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Режим динамической контрастности, специально предназначенный для лучшего отображения быстро меняющихся сцен. Существенно повышает качество картинки во время игр или просмотра фильмов.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 18499,
+                    "item_salePrice": 15799,
+                    "item_bonus": 474,
+                    "item_link": "https://www.mvideo.ru/products/monitor-samsung-f27t354fhi-30060945"
+                },
+                {
+                    "productId": "30059771",
+                    "name": "Монитор MSI Modern MD271QP",
+                    "nameTranslit": "monitor-msi-modern-md271qp",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30059771",
+                    "materialSource": "ERP",
+                    "modelName": "Modern MD271QP",
+                    "rating": {
+                        "star": 4.2,
+                        "count": 5,
+                        "percent": 81
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30059771b.jpg",
+                    "brandId": "1001",
+                    "brandName": "MSI",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30059771.jpg",
+                        "Pdb/30059771b.jpg",
+                        "Pdb/30059771b1.jpg",
+                        "Pdb/30059771b10.jpg",
+                        "Pdb/30059771b2.jpg",
+                        "Pdb/30059771b21.jpg",
+                        "Pdb/30059771b22.jpg",
+                        "Pdb/30059771b23.jpg",
+                        "Pdb/30059771b24.jpg",
+                        "Pdb/30059771b25.jpg",
+                        "Pdb/30059771b26.jpg",
+                        "Pdb/30059771b3.jpg",
+                        "Pdb/30059771b4.jpg",
+                        "Pdb/30059771b5.jpg",
+                        "Pdb/30059771b6.jpg",
+                        "Pdb/30059771b7.jpg",
+                        "Pdb/30059771b8.jpg",
+                        "Pdb/30059771b9.jpg",
+                        "Pdb/30059771s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/2560x1440 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "250",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "75",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "100 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 43799,
+                    "item_salePrice": 32399,
+                    "item_bonus": 972,
+                    "item_link": "https://www.mvideo.ru/products/monitor-msi-modern-md271qp-30059771"
+                },
+                {
+                    "productId": "30063813",
+                    "name": "Монитор Samsung T45F (LF24T450FQIXCI)",
+                    "nameTranslit": "monitor-samsung-t45f-lf24t450fqixci",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30063813",
+                    "materialSource": "ERP",
+                    "modelName": "T45F (LF24T450FQIXCI)",
+                    "rating": {
+                        "star": 5,
+                        "count": 3,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30063813b.jpg",
+                    "brandId": "13",
+                    "brandName": "Samsung",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30063813.jpg",
+                        "Pdb/30063813b.jpg",
+                        "Pdb/30063813s.jpg"
+                    ],
+                    "propertiesPortion": [],
+                    "item_basePrice": 17999,
+                    "item_salePrice": 16299,
+                    "item_bonus": 489,
+                    "item_link": "https://www.mvideo.ru/products/monitor-samsung-t45f-lf24t450fqixci-30063813"
+                },
+                {
+                    "productId": "30061970",
+                    "name": "Монитор HP M24 с веб-камерой (459J3AA)",
+                    "nameTranslit": "monitor-hp-m24-s-veb-kameroi-459j3aa",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30061970",
+                    "materialSource": "ERP",
+                    "modelName": "M24 с веб-камерой (459J3AA)",
+                    "rating": {
+                        "star": 4.75,
+                        "count": 4,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30061970b.jpg",
+                    "brandId": "534",
+                    "brandName": "HP",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30061970.jpg",
+                        "Pdb/30061970b.jpg",
+                        "Pdb/30061970b1.jpg",
+                        "Pdb/30061970b2.jpg",
+                        "Pdb/30061970b21.jpg",
+                        "Pdb/30061970b22.jpg",
+                        "Pdb/30061970b23.jpg",
+                        "Pdb/30061970b24.jpg",
+                        "Pdb/30061970b25.jpg",
+                        "Pdb/30061970b26.jpg",
+                        "Pdb/30061970b3.jpg",
+                        "Pdb/30061970b4.jpg",
+                        "Pdb/30061970b5.jpg",
+                        "Pdb/30061970b6.jpg",
+                        "Pdb/30061970s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "23.8\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "300",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "60",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "10 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "178",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 27199,
+                    "item_salePrice": 21699,
+                    "item_bonus": 651,
+                    "item_link": "https://www.mvideo.ru/products/monitor-hp-m24-s-veb-kameroi-459j3aa-30061970"
+                },
+                {
+                    "productId": "30029580",
+                    "name": "Монитор игровой HP OMEN 27 (Z4D33AA)",
+                    "nameTranslit": "monitor-igrovoi-hp-omen-27-z4d33aa",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30029580",
+                    "materialSource": "ERP",
+                    "modelName": "OMEN 27 (Z4D33AA)",
+                    "rating": {
+                        "star": 4.6,
+                        "count": 5,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30029580b.jpg",
+                    "brandId": "534",
+                    "brandName": "HP",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3587",
+                        "name": "Игровые мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30029580.jpg",
+                        "Pdb/30029580b.jpg",
+                        "Pdb/30029580b1.jpg",
+                        "Pdb/30029580b2.jpg",
+                        "Pdb/30029580b21.jpg",
+                        "Pdb/30029580b22.jpg",
+                        "Pdb/30029580b23.jpg",
+                        "Pdb/30029580b24.jpg",
+                        "Pdb/30029580b25.jpg",
+                        "Pdb/30029580b26.jpg",
+                        "Pdb/30029580b27.jpg",
+                        "Pdb/30029580b3.jpg",
+                        "Pdb/30029580s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 108,
+                            "name": "Диагональ экрана",
+                            "value": "27\"(68.5 см)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "27\"/2560x1440 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "350",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "165",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "10 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 7,
+                            "measure": null
+                        }
+                    ],
+                    "item_basePrice": 45499,
+                    "item_salePrice": 32399,
+                    "item_bonus": 972,
+                    "item_link": "https://www.mvideo.ru/products/monitor-igrovoi-hp-omen-27-z4d33aa-30029580"
+                },
+                {
+                    "productId": "30053358",
+                    "name": "Монитор HP V28 4K (8WH58AA)",
+                    "nameTranslit": "monitor-hp-v28-4k-8wh58aa",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30053358",
+                    "materialSource": "ERP",
+                    "modelName": "V28 4K (8WH58AA)",
+                    "rating": {
+                        "star": 5,
+                        "count": 1,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30053358b.jpg",
+                    "brandId": "534",
+                    "brandName": "HP",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "1263",
+                        "name": "Мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30053358.jpg",
+                        "Pdb/30053358b.jpg",
+                        "Pdb/30053358b1.jpg",
+                        "Pdb/30053358b2.jpg",
+                        "Pdb/30053358b3.jpg",
+                        "Pdb/30053358b4.jpg",
+                        "Pdb/30053358s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "28\"/3840x2160 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "300",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "60",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "10 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": "Хороший показатель, обеспечивающий высокое качество изображения при воспроизведении динамичных сцен.",
+                            "priority": 6,
+                            "measure": null
+                        },
+                        {
+                            "id": 30853519,
+                            "name": "Максимальный угол обзора по горизонтали",
+                            "value": "170",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": "*"
+                        }
+                    ],
+                    "item_basePrice": 29599,
+                    "item_salePrice": 19599,
+                    "item_bonus": 588,
+                    "item_link": "https://www.mvideo.ru/products/monitor-hp-v28-4k-8wh58aa-30053358"
+                },
+                {
+                    "productId": "30054757",
+                    "name": "Монитор игровой Lenovo Legion Y25-25 (66AAGAC6EU)",
+                    "nameTranslit": "monitor-igrovoi-lenovo-legion-y25-25-66aagac6eu",
+                    "productType": "DIG",
+                    "usedProductType": null,
+                    "materialCisNumber": "30054757",
+                    "materialSource": "ERP",
+                    "modelName": "Legion Y25-25 (66AAGAC6EU)",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/30054757b.jpg",
+                    "brandId": "1006",
+                    "brandName": "Lenovo",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "3587",
+                        "name": "Игровые мониторы"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/30054757.jpg",
+                        "Pdb/30054757b.jpg",
+                        "Pdb/30054757b1.jpg",
+                        "Pdb/30054757b21.jpg",
+                        "Pdb/30054757b22.jpg",
+                        "Pdb/30054757b23.jpg",
+                        "Pdb/30054757b24.jpg",
+                        "Pdb/30054757b26.jpg",
+                        "Pdb/30054757s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 108,
+                            "name": "Диагональ экрана",
+                            "value": "24.5\"(62.2 см)",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": null
+                        },
+                        {
+                            "id": 617308,
+                            "name": "Экран",
+                            "value": "24.5\"/1920x1080 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2055,
+                            "name": "Яркость",
+                            "value": "400",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "кд/кв.м"
+                        },
+                        {
+                            "id": 2119,
+                            "name": "Частота обновления",
+                            "value": "240",
+                            "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "Гц"
+                        },
+                        {
+                            "id": 2118,
+                            "name": "Динамическая контрастность",
+                            "value": "3 000 000:1",
+                            "nameDescription": "С помощью режима динамической контрастности, увеличивается отношение между уровнями яркости белого цвета самого яркого кадра и черного цвета наименее освещённого кадра — иначе говоря, растёт динамическая контрастность изображения.",
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": null
+                        }
+                    ],
+                    "item_basePrice": 33999,
+                    "item_salePrice": 22999,
+                    "item_bonus": 690,
+                    "item_link": "https://www.mvideo.ru/products/monitor-igrovoi-lenovo-legion-y25-25-66aagac6eu-30054757"
+                },
+                {
+                    "productId": "50124952",
+                    "name": "Кронштейн для монитора Fellowes DEPTH ADJUSTABLE DUAL MONITOR ARMS (CRC80417)",
+                    "nameTranslit": "kronshtein-dlya-monitora-fellowes-depth-adjustable-dual-monitor-arms-crc80417",
+                    "productType": "ACSS",
+                    "usedProductType": null,
+                    "materialCisNumber": "50124952",
+                    "materialSource": "ERP",
+                    "modelName": "DEPTH ADJUSTABLE DUAL MONITOR ARMS (CRC80417)",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/50124952b.jpg",
+                    "brandId": "596",
+                    "brandName": "Fellowes",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "5667",
+                        "name": "Кронштейны для мониторов"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/50124952.jpg",
+                        "Pdb/50124952b.jpg",
+                        "Pdb/50124952b1.jpg",
+                        "Pdb/50124952b2.jpg",
+                        "Pdb/50124952s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 11930,
+                            "name": "Максимальная нагрузка",
+                            "value": "20",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": "кг"
+                        },
+                        {
+                            "id": 83,
+                            "name": "Материал корпуса",
+                            "value": "сталь",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": null
+                        }
+                    ],
+                    "item_basePrice": 14599,
+                    "item_salePrice": 8999,
+                    "item_bonus": 270,
+                    "item_link": "https://www.mvideo.ru/products/kronshtein-dlya-monitora-fellowes-depth-adjustable-dual-monitor-arms-crc80417-50124952"
+                }
+            ]
+        }
+    }
+}
